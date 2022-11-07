@@ -1,0 +1,20 @@
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.csproj.AssemblyReference.cache
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A_BITS_Request_Information_Form.CustomControl1.resources
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A_BITS_Request_Information_Form.Form1.resources
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A_BITS_Request_Information_Form.Properties.Resources.resources
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A_BITS_Request_Information_Form.UserControl1.resources
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.csproj.GenerateResource.cache
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.AssemblyInfoInputs.cache
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.AssemblyInfo.cs
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.csproj.CoreCompileInputs.cache
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\bin\Debug\net6.0-windows\A-BITS Request Information Form.exe
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\bin\Debug\net6.0-windows\A-BITS Request Information Form.deps.json
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\bin\Debug\net6.0-windows\A-BITS Request Information Form.runtimeconfig.json
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\bin\Debug\net6.0-windows\A-BITS Request Information Form.dll
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\bin\Debug\net6.0-windows\A-BITS Request Information Form.pdb
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.dll
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\refint\A-BITS Request Information Form.dll
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.pdb
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\A-BITS Request Information Form.genruntimeconfig.cache
+C:\Users\sappy\source\repos\Lawson-Loureiro-Renkoski-Rojewski\A-BITS Request Information Form\obj\Debug\net6.0-windows\ref\A-BITS Request Information Form.dll
