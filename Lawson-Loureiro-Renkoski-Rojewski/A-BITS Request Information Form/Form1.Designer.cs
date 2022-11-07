@@ -97,7 +97,7 @@
             this.LastNameBox.TabIndex = 3;
             this.LastNameBox.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // EmailLabel
+            // EmailLabel Extend Comment for Test 11/7/2022
             // 
             this.EmailLabel.AutoSize = true;
             this.EmailLabel.Location = new System.Drawing.Point(181, 253);
