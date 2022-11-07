@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sappy\\source\\repos\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj": {}
+    "C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sappy\\source\\repos\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj": {
+    "C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sappy\\source\\repos\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj",
+        "projectUniqueName": "C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj",
         "projectName": "A-BITS Request Information Form",
-        "projectPath": "C:\\Users\\sappy\\source\\repos\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj",
+        "projectPath": "C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj",
         "packagesPath": "C:\\Users\\sappy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sappy\\Source\\Repos\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\obj\\",
+        "outputPath": "C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sappy\\AppData\\Roaming\\NuGet\\NuGet.Config",
