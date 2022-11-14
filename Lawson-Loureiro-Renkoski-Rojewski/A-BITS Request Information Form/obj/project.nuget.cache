@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Msw5FEuFyruIY8wucv0JnSFlMaq1OATns6y3VwjCF0FNuUEnBPbdnormS0ibssCv9o+biPQubj4/+oSS+W3ujA==",
+  "dgSpecHash": "ybXGJWBpixUKC95cD4y8d4bFpDZTsrKpD1JEyIAtlhzNOkh1cFrAk1m+eUzYUYbfOftPf2ofPvo/jtUbh99f1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\A-BITS Request Information Form.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sappy\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sappy\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
