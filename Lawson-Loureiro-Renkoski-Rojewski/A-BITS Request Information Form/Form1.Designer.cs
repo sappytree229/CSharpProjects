@@ -50,7 +50,6 @@
             this.FirstNameBox.Name = "FirstNameBox";
             this.FirstNameBox.Size = new System.Drawing.Size(208, 31);
             this.FirstNameBox.TabIndex = 0;
-            this.FirstNameBox.TextChanged += new System.EventHandler(this.FirstName_TextChanged);
             // 
             // FirstNameLabel
             // 
@@ -62,7 +61,6 @@
             this.FirstNameLabel.TabIndex = 1;
             this.FirstNameLabel.Text = "First Name";
             this.FirstNameLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.FirstNameLabel.Click += new System.EventHandler(this.label1_Click);
             // 
             // ABITSPhoto
             // 
@@ -84,7 +82,6 @@
             this.LastNameLabel.TabIndex = 4;
             this.LastNameLabel.Text = "Last Name";
             this.LastNameLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.LastNameLabel.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // LastNameBox
             // 
@@ -95,9 +92,8 @@
             this.LastNameBox.Name = "LastNameBox";
             this.LastNameBox.Size = new System.Drawing.Size(208, 31);
             this.LastNameBox.TabIndex = 3;
-            this.LastNameBox.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // EmailLabel Extend Comment for Test 11/7/2022
+            // EmailLabel
             // 
             this.EmailLabel.AutoSize = true;
             this.EmailLabel.Location = new System.Drawing.Point(181, 253);
@@ -107,7 +103,6 @@
             this.EmailLabel.TabIndex = 6;
             this.EmailLabel.Text = "Email";
             this.EmailLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.EmailLabel.Click += new System.EventHandler(this.label2_Click);
             // 
             // EmailBox
             // 
@@ -138,6 +133,7 @@
             this.SubmitButton.TabIndex = 8;
             this.SubmitButton.Text = "Submit";
             this.SubmitButton.UseVisualStyleBackColor = true;
+            this.SubmitButton.Click += new System.EventHandler(this.SubmitButton_Click);
             // 
             // Form1
             // 

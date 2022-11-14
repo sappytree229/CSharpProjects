@@ -1,3 +1,7 @@
+using System.Data.OleDb;
+using System.Windows.Forms;
+
+
 namespace A_BITS_Request_Information_Form
 {
     public partial class Form1 : Form
@@ -7,34 +11,50 @@ namespace A_BITS_Request_Information_Form
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void SubmitButton_Click(object sender, EventArgs e)
         {
+            //Initiate SQL Connection variables
+            String myConnectionString = "";
+            String mySQLInsert = "";
+            //OleDbConnection myConnection;
+            //OleDbCommand myCommand;
 
-        }
+            myConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"C:\\Users\\sappy\\source\\repos\\sappytree229\\SystemsAnalysisAndDesign\\Lawson-Loureiro-Renkoski-Rojewski\\A-BITS Request Information Form\\ABITS.accdb\"";
+            mySQLInsert = "Insert into PROSPECTIVE_MEMBER_INFO (fName) values (" + FirstNameBox.Text + ")";
+            //Initiate SQL Connection
+            //myConnection = new OleDbConnection(myConnectionString);
+            //myConnection.Open();
 
-        private void FirstName_TextChanged(object sender, EventArgs e)
-        {
+            //myCommand = new OleDbCommand(mySQLInsert, myConnection);
 
-        }
+            //Prospective Member variables
+            string  prospectiveMemberFirstNameString = "";
+            string  prospectiveMemberLastNameString  = "";
+            string  prospectiveMemberEmailString     = "";
+            Boolean willProspectiveMemberSponsorAbitsBoolean = false;
 
-        private void ABITSLogo(object sender, EventArgs e)
-        {
-            
-        }
+            //Store User input in Prospective Member Variables
+            prospectiveMemberFirstNameString = FirstNameBox.Text;
+            prospectiveMemberLastNameString = LastNameBox.Text;
+            prospectiveMemberEmailString = EmailBox.Text;
 
-        private void label1_Click_1(object sender, EventArgs e)
-        {
+            //Change Sponsor boolean from false to true
+            if (willProspectiveMemberSponsorAbitsBoolean = SponsorBox.Checked)
+            {
+                willProspectiveMemberSponsorAbitsBoolean = true;
+            }
 
-        }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
+            //Insert user information to database using SQL command and user input variables
 
-        }
+            //Send email with information to user
 
-        private void label2_Click(object sender, EventArgs e)
-        {
+            //Close database connections
 
+            //TestCode
+            Console.WriteLine(prospectiveMemberFirstNameString);
+
+            this.Close();
         }
     }
 }
