@@ -1,5 +1,7 @@
 using System.Data.OleDb;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 
 namespace A_BITS_Request_Information_Form
@@ -13,6 +15,34 @@ namespace A_BITS_Request_Information_Form
 
         private void SubmitButton_Click(object sender, EventArgs e)
         {
+            //Check boxes for any input
+            if (LastNameBox.Text == "" || FirstNameBox.Text == "" || EmailBox.Text == "")
+            {
+                // display popup box
+                MessageBox.Show("Please fill in all fields", "Error", MessageBoxButtons.OK);
+                FirstNameBox.Focus();
+                return;
+            }
+            else { }
+
+            //Validate user entered data
+            if (!Regex.IsMatch(FirstNameBox.Text, @"[A-Z][a-z]"))
+            {
+                MessageBox.Show("Please capitalize the first letter of names and do not enter numerics for them.");
+                FirstNameBox.Focus();
+                return;
+            }
+            else { }
+
+            if (!Regex.IsMatch(LastNameBox.Text, @"[A-Z][a-z]"))
+            {
+                MessageBox.Show("Please capitalize the first letter of names and do not enter numerics for them.");
+                FirstNameBox.Focus();
+                return;
+            }
+            else { }
+
+
             //Initiate SQL Connection variables
             String abitsDatabaseString = "Provider=Microsoft.ACE.OLEDB.12.0; Data Source=|DataDirectory|\\ABITS.accdb";
             OleDbConnection abitsConnection;
